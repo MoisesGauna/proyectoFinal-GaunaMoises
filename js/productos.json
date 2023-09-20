@@ -1,0 +1,362 @@
+[
+    {
+        "id": "placa-01",
+        "titulo": "RX 580 Single",
+        "imagen": "./img/placas/rx580sf.jpg",
+        "categoria": {
+            "nombre": "Placas de Video",
+            "id": "placa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-03",
+        "titulo": "RX 580 Dual",
+        "imagen": "./img/placas/rx580df.jpg",
+        "categoria": {
+            "nombre": "Placas de Video",
+            "id": "placa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-04",
+        "titulo": "RX 6500",
+        "imagen": "./img/placas/rx6500.jpg",
+        "categoria": {
+            "nombre": "Placas de Video",
+            "id": "placa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-05",
+        "titulo": "RX 6600",
+        "imagen": "./img/placas/rx6600.jpg",
+        "categoria": {
+            "nombre": "Placas de Video",
+            "id": "placa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-05",
+        "titulo": "RX 6700XT",
+        "imagen": "./img/placas/rx6700xt.jpg",
+        "categoria": {
+            "nombre": "Placas de Video",
+            "id": "placa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "memoria-01",
+        "titulo": "Memoria 01",
+        "imagen": "./img/memorias/01.webp",
+        "categoria": {
+            "nombre": "Memorias",
+            "id": "memorias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "memoria-02",
+        "titulo": "Memoria 02",
+        "imagen": "./img/memorias/02.webp",
+        "categoria": {
+            "nombre": "Memorias",
+            "id": "memorias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "memoria-03",
+        "titulo": "Memoria 03",
+        "imagen": "./img/memorias/03.webp",
+        "categoria": {
+            "nombre": "Memorias",
+            "id": "memorias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "memoria-04",
+        "titulo": "Memoria 04",
+        "imagen": "./img/memorias/04.webp",
+        "categoria": {
+            "nombre": "Memorias",
+            "id": "memorias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "memoria-05",
+        "titulo": "Memoria 05",
+        "imagen": "./img/memorias/05.webp",
+        "categoria": {
+            "nombre": "Memorias",
+            "id": "memorias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "memoria-06",
+        "titulo": "Memoria 06",
+        "imagen": "./img/memorias/06.webp",
+        "categoria": {
+            "nombre": "Memorias",
+            "id": "memorias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "memoria-07",
+        "titulo": "Memoria 07",
+        "imagen": "./img/memorias/07.webp",
+        "categoria": {
+            "nombre": "Memorias",
+            "id": "memorias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "memoria-08",
+        "titulo": "Memoria 08",
+        "imagen": "./img/memorias/08.webp",
+        "categoria": {
+            "nombre": "Memorias",
+            "id": "memorias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitores-01",
+        "titulo": "Monitor 01",
+        "imagen": "./img/monitores/01.webp",
+        "categoria": {
+            "nombre": "monitores",
+            "id": "moni"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitores-02",
+        "titulo": "Monitor 02",
+        "imagen": "./img/monitores/02.webp",
+        "categoria": {
+            "nombre": "monitores",
+            "id": "moni"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitores-03",
+        "titulo": "Monitor 03",
+        "imagen": "./img/monitores/03.webp",
+        "categoria": {
+            "nombre": "monitores",
+            "id": "moni"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitores-04",
+        "titulo": "Monitor 04",
+        "imagen": "./img/monitores/04.webp",
+        "categoria": {
+            "nombre": "monitores",
+            "id": "moni"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitores-05",
+        "titulo": "Monitor 05",
+        "imagen": "./img/monitores/05.webp",
+        "categoria": {
+            "nombre": "monitores",
+            "id": "moni"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitores-06",
+        "titulo": "Monitor 06",
+        "imagen": "./img/monitores/06.webp",
+        "categoria": {
+            "nombre": "monitores",
+            "id": "moni"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitores-07",
+        "titulo": "Monitor 07",
+        "imagen": "./img/monitores/07.webp",
+        "categoria": {
+            "nombre": "monitores",
+            "id": "moni"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "procesador-01",
+        "titulo": "Procesador 01",
+        "imagen": "./img/procesadores/01.webp",
+        "categoria": {
+            "nombre": "Procesador",
+            "id": "proce"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "procesador-02",
+        "titulo": "Procesador 02",
+        "imagen": "./img/procesadores/02.webp",
+        "categoria": {
+            "nombre": "Procesador",
+            "id": "proce"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "procesador-03",
+        "titulo": "Procesador 03",
+        "imagen": "./img/procesadores/03.webp",
+        "categoria": {
+            "nombre": "Procesador",
+            "id": "proce"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "procesador-04",
+        "titulo": "Procesador 04",
+        "imagen": "./img/procesadores/04.webp",
+        "categoria": {
+            "nombre": "Procesador",
+            "id": "proce"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "procesador-05",
+        "titulo": "Procesador 05",
+        "imagen": "./img/procesadores/05.webp",
+        "categoria": {
+            "nombre": "Procesador",
+            "id": "proce"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "procesador-06",
+        "titulo": "Procesador 06",
+        "imagen": "./img/procesadores/06.webp",
+        "categoria": {
+            "nombre": "Procesador",
+            "id": "proce"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "procesador-07",
+        "titulo": "Procesador 07",
+        "imagen": "./img/procesadores/07.webp",
+        "categoria": {
+            "nombre": "Procesador",
+            "id": "proce"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-01",
+        "titulo": "Refrigeracion 01",
+        "imagen": "./img/refrigeracion/01.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-02",
+        "titulo": "Refrigeracion 02",
+        "imagen": "./img/refrigeracion/02.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-03",
+        "titulo": "Refrigeracion 03",
+        "imagen": "./img/refrigeracion/03.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-04",
+        "titulo": "Refrigeracion 04",
+        "imagen": "./img/refrigeracion/04.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-05",
+        "titulo": "Refrigeracion 05",
+        "imagen": "./img/refrigeracion/05.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-06",
+        "titulo": "Refrigeracion 06",
+        "imagen": "./img/refrigeracion/06.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-07",
+        "titulo": "Refrigeracion 07",
+        "imagen": "./img/refrigeracion/07.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-08",
+        "titulo": "Refrigeracion 08",
+        "imagen": "./img/refrigeracion/08.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigeracion-09",
+        "titulo": "Refrigeracion 09",
+        "imagen": "./img/refrigeracion/09.webp",
+        "categoria": {
+            "nombre": "Refrigeracion",
+            "id": "refri"
+        },
+        "precio": 1000
+    }
+]
